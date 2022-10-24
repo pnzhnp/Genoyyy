@@ -14,3 +14,5 @@ SELECT COUNT(*) FROM users (сколько чловек в таблице)
 sibirtsevgennadijgmail.wordpress.com
 
 python шпора.ipynb (базовая конструкция pyton)
+
+bdtest.py (база данных)
