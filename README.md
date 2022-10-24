@@ -12,3 +12,5 @@ SELECT  COUNT(*) FROM information_schema.tables WHERE table_schema = 'p518238_ly
 SELECT COUNT(*) FROM users (сколько чловек в таблице)
 
 sibirtsevgennadijgmail.wordpress.com
+
+python шпора.ipynb (базовая конструкция pyton)
