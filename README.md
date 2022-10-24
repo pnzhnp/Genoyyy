@@ -1,4 +1,4 @@
-# Genoyyy
+# Геннадий Сухорослов
 SELECT * FROM users (вывести из все из таблицы с пользователями)
 SELECT * FROM users WHERE name='Олег' (найти записи с именем олег)
 SELECT * from grades (вывести все оценки)
