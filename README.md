@@ -10,3 +10,5 @@ SELECT * FROM users JOIN grades on users.user_id=grades.user_id (вывести 
 SELECT  COUNT(*) FROM information_schema.tables WHERE table_schema = 'p518238_lyc' (Сколько таблиц в базе данных)
 
 SELECT COUNT(*) FROM users (сколько чловек в таблице)
+
+sibirtsevgennadijgmail.wordpress.com
