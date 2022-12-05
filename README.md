@@ -33,8 +33,9 @@ https://deepnote.com/@gena-sukhoroslov
 ![image](https://user-images.githubusercontent.com/114376620/202962456-c67bb90a-dbd8-47d4-b46c-d2afb045f948.png)
 
 flowchart LR
-
+```mermaid
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
+```
