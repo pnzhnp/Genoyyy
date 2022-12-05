@@ -1,3 +1,7 @@
+![quote-2022-12-05-19d4633226ad6930e18629318ed1bfae](https://user-images.githubusercontent.com/114376620/205549623-ab1c7823-d20d-4693-a675-4214fd38cdc0.jpg)
+
+
+
 # Геннадий Сухорослов Пинжина Полина
 SELECT * FROM users (вывести из все из таблицы с пользователями)
 
